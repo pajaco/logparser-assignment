@@ -1,0 +1,3 @@
+include requirements.txt
+include test/profile_find_functions.py
+recursive-include data *
