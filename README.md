@@ -1,7 +1,7 @@
 # logparser-assignment
 Assignment given to me as part of recruitment process
 
-# Spec
+## Spec
 
 Example log entries:
 ```
